@@ -23,9 +23,10 @@ _(In Progress)_
 - [x] UV unwrap
 - [x] Add borders to windows
 - [x] Add two concrete textures
-- [ ] Texture painted parking spaces
+- [x] Texture painted parking spaces
 - [x] Add grass
-- [ ] Add blue banner
+- [x] Add blue banner
+- [ ] Bevel everything!
 - [ ] Add trees
 - [x] Add cars
 - [ ] Texture ground
