@@ -3,6 +3,8 @@
 
 ![](Images/0001.png)
 
+---
+
 **Project 1:** Accurate 3D Model of SABA, CA
 _(Complete)_
 
@@ -40,4 +42,16 @@ _(Not Started)_
 
 ---
 
-_Blend file not present due to file size limitations. Email hayaanrizvi@gmail.com for access to it._
+**_Disclamers_**
+
+- _Blend file not present due to file size limitations. Email hayaanrizvi@gmail.com for access to it._
+
+- _STL 3D Model preview will be updated every weekend._
+
+---
+
+- This is not a project that is owned by SABA (Shia Association of the Bay Area), but we do have approval to make a 3D model. We might use this model in future to make promo's, maps, and more for SABA.
+
+- We try our best to make everything as accurate as possible, but not all items are created to scale. Some items are removed/improved for better visual pleasure. 
+
+- If you have any questions, complaints, or ideas, feel free to email mhadiyusufali@gmail.com and we will answer you ASAP.
