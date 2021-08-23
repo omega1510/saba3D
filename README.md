@@ -50,7 +50,7 @@ _(Not Started)_
 
 ---
 
-- This is not a project that is owned by SABA (Shia Association of the Bay Area), but we do have approval to make a 3D model. We might use this model in future to make promo's, maps, and more for SABA.
+- This is not a project that is owned by SABA (Shia Association of the Bay Area), but we do have approval to make a 3D model. We might use this model in future to make promos, maps, and more for SABA.
 
 - We try our best to make everything as accurate as possible, but not all items are created to scale. Some items are removed/improved for better visual pleasure. 
 
